@@ -35,4 +35,4 @@ This project demonstrates the use of Python randomization, user input handling, 
 ---
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AyushTIW30/Password_Generator_X_Streamlit
